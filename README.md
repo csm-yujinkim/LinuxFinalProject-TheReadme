@@ -2,6 +2,8 @@
 
 ## Profile
 
+I've been using this distribution for a while now, so there has been some customizations.
+
 - Method of Installation: Physical computer. Only OS
 - Type of Linux shell: `bash`
     - `5.0.16(1)-release (x86_64-pc-linux-gnu)`
