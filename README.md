@@ -5,6 +5,7 @@
 I've been using this distribution for a while now, so there has been some customizations.
 
 - Method of Installation: Physical computer. Only OS
+- Type of UI: GUI (graphical)
 - Type of Linux shell: `bash`
     - `5.0.16(1)-release (x86_64-pc-linux-gnu)`
 - Vim: A stripped-down version of Vim, or `vi`, is already installed. I have the latest version of Vim (8.1) installed.
